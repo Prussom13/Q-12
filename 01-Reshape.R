@@ -5,7 +5,7 @@
 ## Tidy data
 
 # Values in column names 
-
+#This is my edit for question 12.5
 raw <- read.csv("data/pew.csv", check.names = F)
 
 head(raw)
